@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="3rdparty/dialog-error.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/dialog-error.png</file>
+    <file alias="3rdparty/edit-clear.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/edit-clear.png</file>
+    <file alias="3rdparty/go-bottom.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/go-bottom.png</file>
+    <file alias="3rdparty/go-next.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/go-next.png</file>
+    <file alias="3rdparty/go-previous.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/go-previous.png</file>
+    <file alias="3rdparty/process-stop.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/process-stop.png</file>
+    <file alias="3rdparty/text-html.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/text-html.png</file>
+    <file alias="3rdparty/view-refresh.png">/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/assets/3rdparty/view-refresh.png</file>
+  </qresource>
+</RCC>
+

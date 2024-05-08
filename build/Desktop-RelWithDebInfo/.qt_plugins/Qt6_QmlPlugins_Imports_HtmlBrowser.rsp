@@ -1,0 +1,11 @@
+-rootPath
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser
+-cmake-output
+-output-file
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-RelWithDebInfo/.qt_plugins/Qt6_QmlPlugins_Imports_HtmlBrowser.cmake
+-importPath
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-RelWithDebInfo
+-importPath
+/home/m/Qt/6.7.0/gcc_64/./qml
+-qrcFiles
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-RelWithDebInfo/.rcc/HtmlBrowser.qrc

@@ -1,0 +1,9 @@
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/HtmlBrowser.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/HtmlBrowser_qmlimportscan.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/edit_cache.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/rebuild_cache.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/list_install_components.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/install.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/install/local.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/install/strip.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop-Profile/CMakeFiles/HtmlBrowser_autogen.dir

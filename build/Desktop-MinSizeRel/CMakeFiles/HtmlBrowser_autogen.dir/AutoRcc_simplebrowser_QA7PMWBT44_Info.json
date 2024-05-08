@@ -1,0 +1,31 @@
+{
+	"BUILD_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel/HtmlBrowser_autogen",
+	"CMAKE_BINARY_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser",
+	"CMAKE_SOURCE_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser",
+	"INCLUDE_DIR" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel/HtmlBrowser_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/text-html.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/go-next.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/go-bottom.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/view-refresh.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/process-stop.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/go-previous.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/edit-clear.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/AppLogoColor.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/ninja.png",
+		"/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/3rdparty/dialog-error.png"
+	],
+	"LOCK_FILE" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel/CMakeFiles/HtmlBrowser_autogen.dir/AutoRcc_simplebrowser_QA7PMWBT44_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "simplebrowser" ],
+	"OUTPUT_CHECKSUM" : "QA7PMWBT44",
+	"OUTPUT_NAME" : "qrc_simplebrowser.cpp",
+	"RCC_EXECUTABLE" : "/home/m/Qt/6.7.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-MinSizeRel/CMakeFiles/HtmlBrowser_autogen.dir/AutoRcc_simplebrowser_QA7PMWBT44_Used.txt",
+	"SOURCE" : "/home/m/Qt/Examples/Qt-6.7.0/webenginewidgets/simplebrowser/data/simplebrowser.qrc",
+	"VERBOSITY" : 0
+}

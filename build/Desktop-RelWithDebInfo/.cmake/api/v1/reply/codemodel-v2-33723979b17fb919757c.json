@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-RelWithDebInfo-91bc347439b8e10147d3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HtmlBrowser",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HtmlBrowser::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HtmlBrowser-RelWithDebInfo-e3a7d49896ced4a5da1f.json",
+					"name" : "HtmlBrowser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HtmlBrowser_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HtmlBrowser_autogen-RelWithDebInfo-a18dac299cb4c415a89a.json",
+					"name" : "HtmlBrowser_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HtmlBrowser_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HtmlBrowser_qmlimportscan-RelWithDebInfo-3fb42df69fbf571dea8a.json",
+					"name" : "HtmlBrowser_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser/build/Desktop-RelWithDebInfo",
+		"source" : "/home/m/\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b/OSiSP/courseWork/HtmlBrowser"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

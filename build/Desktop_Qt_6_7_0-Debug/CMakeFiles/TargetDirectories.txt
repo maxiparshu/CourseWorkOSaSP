@@ -1,0 +1,9 @@
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/HtmlBrowser.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/HtmlBrowser_qmlimportscan.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/home/m/Рабочий стол/OSiSP/courseWork/HtmlBrowser/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/HtmlBrowser_autogen.dir
